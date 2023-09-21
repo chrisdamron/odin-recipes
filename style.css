@@ -1,1 +1,24 @@
+h1 
+h2
+h3
+h4{
+    font-weight: bolder;
+}
 
+.recipe-list{
+
+    font-style: italic;
+}
+
+    .jerky-photo,
+    .pasta-photo,
+    .steak-photo
+{
+    width: 500px;
+
+}
+
+.background{
+    background-color:#fc0341;
+
+}
